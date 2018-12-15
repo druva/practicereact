@@ -1,0 +1,1 @@
+const Company = () => <h2>Company Page</h2>;
